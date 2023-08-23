@@ -2,6 +2,7 @@
     "theme_color": "#164f18",
     "background_color": "#164f18",
     "display": "standalone",
+    "capture_links": "new-client", 
     "scope": "https://vanillamarket.ru/mobile",
     "start_url": "https://vanillamarket.ru/mobile",
     "name": "\u0412\u0430\u043d\u0438\u043b\u044c\u041c\u0430\u0440\u043a\u0435\u0442",
